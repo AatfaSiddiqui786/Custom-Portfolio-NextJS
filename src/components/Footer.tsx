@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaFacebook, FaLinkedin } from 'react-icons/fa';
 import "../css-files/footer.css"
 
 const Footer: React.FC = () => {
